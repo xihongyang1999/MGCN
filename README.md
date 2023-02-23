@@ -10,9 +10,8 @@
 <p align="center">   
     <a href="https://pytorch.org/" alt="PyTorch">
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
-    <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" alt="Journal">
-        <img src="https://img.shields.io/badge/IEEE TNNLS'22-brightgreen" /></a>
 <p/>
+
 
 
 [![GitHub stars][stars-img]][stars-url]
