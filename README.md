@@ -66,10 +66,14 @@ If you use code or datasets in this repository for your research, please cite ou
 
 ```
 @article{MGCN,
-  title={Mixed Graph Contrastive Network for Semi-Supervised Node Classification},
-  author={Yang, Xihong and Liu, Yue and Zhou, Sihang and Liu, Xinwang and Zhu, En},
-  journal={arXiv preprint arXiv:2206.02796},
-  year={2022}
+  title={Mixed graph contrastive network for semi-supervised node classification},
+  author={Yang, Xihong and Wang, Yiqi and Liu, Yue and Wen, Yi and Meng, Lingyuan and Zhou, Sihang and Liu, Xinwang and Zhu, En},
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={18},
+  number={7},
+  pages={1--19},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 
 ```
